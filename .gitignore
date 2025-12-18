@@ -5,6 +5,10 @@
 *.avi
 *.npy
 *.hspy
+*.png
+*.pth 
+
+
 
 # Other potential large data files
 *.h5
